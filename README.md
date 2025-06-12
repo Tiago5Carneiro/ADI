@@ -14,7 +14,7 @@
 | Tiago Guedes     | A97369  |
 | Luís Ferreira    | A98286  |
 
-Nota : ??
+Nota : 17
 
 </div>
 # ADI , Uminho
